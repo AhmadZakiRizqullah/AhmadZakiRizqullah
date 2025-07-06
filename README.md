@@ -51,7 +51,7 @@
 
 ## 🔗 Explore More
 
-🌍 [My GitHub Repository](https://github.com/Ahmazaki/AhmadZakiRizqullah.git)
+🌍 [My GitHub Repository](https://github.com/Ahmazaki?tab=repositories)
 
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
