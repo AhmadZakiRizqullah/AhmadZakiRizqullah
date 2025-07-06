@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **open-source projects**, **hackathons**, and **educational tools**
 - 🤔 I’m looking for help with **building scalable web apps** and **optimizing code performance**
 - 💬 Ask me about **JavaScript, Python, C++, or anything tech-related**
-- 📫 Reach me at: **ahmazakirizqullah05@gmail.com** or [LinkedIn](https://www.linkedin.com/in/ahmadzakirizqullah/)
+- 📫 Reach me at: **ahmadzakirizqullah05@gmail.com** or [LinkedIn](https://www.linkedin.com/in/ahmadzakirizqullah/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning coffee and ideas into code ☕💡
 
