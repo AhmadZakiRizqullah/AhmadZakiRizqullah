@@ -45,6 +45,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadZakiRizqullah&show_icons=true&theme=radical" alt="Ahmad Zaki's GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmazaki&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
