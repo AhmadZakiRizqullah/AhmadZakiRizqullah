@@ -2,14 +2,14 @@
 
 🎓 Computer Engineering Student at [Universitas Pendidikan Indonesia](https://www.upi.edu/)  
 💻 Passionate about Software Development, UI/UX, and all things Tech  
-🌱 Currently exploring **Web Development**, **Machine Learning**, and **Open Source**  
+🌱 Currently exploring **Web Development**, **Machine Learning**, and **Open CV**  
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on various personal and collaborative projects
-- 🌱 I’m expanding my skills in **Next.js**, **Laravel**, and **TensorFlow**
+- 🌱 I’m expanding my skills in **Next.js**, **Laravel**, and **ultralytics YOLO**
 - 👯 I’m looking to collaborate on **open-source projects**, **hackathons**, and **educational tools**
 - 🤔 I’m looking for help with **building scalable web apps** and **optimizing code performance**
 - 💬 Ask me about **JavaScript, Python, C++, or anything tech-related**
@@ -37,6 +37,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/> </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/> </a>
+  <a href="https://anaconda.org/"> <img src="https://raw.githubusercontent.com/devicons/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/> </a>
 </p>
 
 ---
