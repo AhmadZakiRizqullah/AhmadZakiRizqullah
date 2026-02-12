@@ -23,23 +23,23 @@
 
 ### Languages
 
-`C++` `Python` `JavaScript` `PHP` `HTML` `CSS`
+`C++` `Python` `JavaScript` `PHP` `HTML` `CSS` `Dart` `Java`
 
 ### Frameworks & Libraries
 
-`React` `Next.js` `Node.js` `Bootstrap` `Laravel` `OpenCV` `Ultralytics YOLO`
+`React` `Next.js` `Node.js` `Bootstrap` `Laravel` `Flutter` `OpenCV` `Ultralytics YOLO`
 
 ### Database & Tools
 
-`MySQL` `Git` `VS Code` `Arduino` `MATLAB` `Anaconda`
+`MySQL` `Git` `VS Code` `Microcontroller` `MATLAB` `Anaconda`
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadZakiRizqullah\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AhmadZakiRizqullah&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadZakiRizqullah\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmadZakiRizqullah&layout=compact&theme=tokyonight)
 
 ---
 
